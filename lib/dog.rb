@@ -7,5 +7,4 @@ snoopy = Dog.new
 
 lassie = Dog.new
 
-class Person
-end
+
